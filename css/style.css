@@ -1,0 +1,72 @@
+#front{
+  margin: auto 350px auto;
+  align-content: center;
+}
+body{
+  background-color: aquamarine;
+}
+
+.section1{
+  margin: auto 500px auto;
+}
+
+.navigation{
+  margin: auto 500px auto;
+  border-radius: 15px;
+}
+
+.navigation a{
+  border: 3px;
+  font-size: 30px;
+  border-radius: 15px;
+}
+
+.contact{
+  margin: auto 500px 0px;
+  font-size: 35px;
+}
+
+.footer{
+  font-size: 15px;
+  margin: auto 500px auto;
+  position: absolute;
+  width: auto;
+}
+
+/*Login page styling*/
+
+.login{
+  margin: 200px 500px auto;
+  width: 382px;  
+  overflow: hidden;  
+  padding: 80px;  
+  background: #23463f;  
+  border-radius: 15px ;
+}
+
+.register{
+  margin: auto 500px auto;
+  width: 382px;  
+  overflow: hidden;  
+  padding: 80px;  
+  background: #23463f;  
+  border-radius: 15px ;
+}
+
+.contacts1{
+  margin: auto 500px auto;
+  width: 382px;  
+  overflow: hidden;  
+  padding: 80px;  
+  background: #23463f;  
+  border-radius: 15px ;
+
+}
+
+#message{
+  height: 100px;
+  font-size: 15px;
+}
+#h2c{
+  margin: auto 500px auto;
+}
